@@ -1,0 +1,1 @@
+You have just used scratch on your opponent, 
