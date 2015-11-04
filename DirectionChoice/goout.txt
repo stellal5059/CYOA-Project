@@ -1,0 +1,2 @@
+You are attacked by a spearrow, dont ever leave without a pokemon.
+[Start Over]()
