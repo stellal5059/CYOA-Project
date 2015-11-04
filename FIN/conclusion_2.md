@@ -1,2 +1,2 @@
 your rival's magikarp has beaten you in a pokemon battle your pokemon faints.  
-[Start over](../start/startPokemonJourney.md)
+[Start over](../start/wakeup.md)
