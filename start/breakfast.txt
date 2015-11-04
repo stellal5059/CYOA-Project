@@ -1,3 +1,3 @@
 Your mom makes you pancakes with strawberries(if your allergic too bad). She asks what your doing are you   
 [Go out and try to get pokemon without training](goout.txt)  
-[Go to proffesor and start trainer](goTrain.txt)
+[Go to profesor and start trainer](goTrain.txt)
