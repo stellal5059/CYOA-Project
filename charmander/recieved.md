@@ -1,0 +1,2 @@
+You have recieved a very agressive and serious charmander who you don't get along with in the beginning and who uses flamethrower on you, however will still manage to obey your commands in battle.  
+[Walk out of laboratory](attacks.md)

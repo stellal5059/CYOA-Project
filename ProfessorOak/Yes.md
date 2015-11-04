@@ -5,4 +5,4 @@ You look on the table and there are four pokeballs:
 [Squirtle]()
 [Mysterious Pokeball]()
 
-Which 
+Which do you choose?
