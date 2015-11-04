@@ -1,2 +1,2 @@
 You beat your rival and start your journey onto becoming a pokemon master.
-[Start Over]()
+[Start Over](../start/startPokemonJourney.md)
