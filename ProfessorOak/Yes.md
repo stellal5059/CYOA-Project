@@ -3,6 +3,6 @@ You look on the table and there are four pokeballs:
 [Charmander](../charmander/recieved.md)  
 [Bulbasaur](../bulbasaur/recived.md)  
 [Squirtle](../squirtle)  
-[Mysterious Pokeball]()
+[Mysterious Pokeball](../ProfessorOak/mysteriousPokeball.md)
 
 Which do you choose?
