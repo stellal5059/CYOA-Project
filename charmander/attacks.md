@@ -1,3 +1,3 @@
-You are approached by your rival Gary Oak who throws out his magikarp. Your charmander attacks using scratch.  
-![Charmander](https://img0.etsystatic.com/016/0/6832516/il_340x270.454805566_rntm.jpg)
-[Scratch](../FIN/conclusionC.md)
+You are approached by your rival Gary Oak who throws out his magikarp. Your charmander attacks using scratch.
+![Magikarp](http://nuggetbridge.com/wp-content/uploads/2014/12/sv_magikarp.jpg)   
+[Scratch](../FIN/conclusionC.md)  
