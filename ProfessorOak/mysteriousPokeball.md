@@ -1,2 +1,2 @@
-You see a mysterious pokemball that gives you a chilling vibe, you open it and it turns out there as a serial killer in there... you died because you were killed by a serial killer who was trapped in a pokeball.  
+You see a mysterious pokeball that gives you a chilling vibe, you open it and it turns out there as a serial killer in there... you died because you were killed by a serial killer who was trapped in a pokeball.  
 [Start Over](../start/wakeup.md)

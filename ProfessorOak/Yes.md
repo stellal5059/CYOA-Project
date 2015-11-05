@@ -2,7 +2,7 @@ Professor Oak looks ate you, "Well then I guess your ready for your very first P
 You look on the table and there are four pokeballs:  
 [Charmander](../charmander/recieved.md)  
 [Bulbasaur](../bulbasaur/recived.md)  
-[Squirtle](../squirtle)  
+[Squirtle](../squirtle/recieveB.md)  
 [Mysterious Pokeball](../ProfessorOak/mysteriousPokeball.md)
 
 Which do you choose?
