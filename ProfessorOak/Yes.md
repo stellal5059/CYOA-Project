@@ -5,4 +5,6 @@ You look on the table and there are four pokeballs:
 [Squirtle](../squirtle/recievedB.md)  
 [Mysterious Pokeball](../ProfessorOak/mysteriousPokeball.md)
 
-Which do you choose?
+Which do you choose?  
+
+![3 starter pokemon](http://orig08.deviantart.net/e486/f/2015/133/9/a/explorers_of_kanto_by_animusdesign-d8t7p3s.png)
