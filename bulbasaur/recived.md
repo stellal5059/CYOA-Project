@@ -1,2 +1,3 @@
 You have recieved a very joyful and calm bulbasaur. You take your little bulbasaur and go to start your journey as you walk out of the laboratory...
+![bulbasaur](http://img14.deviantart.net/e673/i/2012/056/e/8/bulbasaur_by_eto86-d4qzgof.png)
 [Walk out of laboratory](attack.md)
