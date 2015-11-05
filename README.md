@@ -1,5 +1,6 @@
 # CYOA-Project  
-##### [Pokemon adventure](start/wakeup.md)  
+![Pokemon Logo](https://upload.wikimedia.org/wikipedia/commons/f/f7/English_Pok%C3%A9mon_logo.svg)
+#[Pokemon adventure](start/wakeup.md) 
 ##[Project Layout Map](https://docs.google.com/a/hstat.org/drawings/d/11ZYmdDIN1AkF5ROXNh3S_ZukhXk6-Sq8f6QizPhz1yk/edit?usp=sharing)  
 EDITORS:  
 [Stella LaPorta](https://github.com/stellal5059)  
