@@ -1,2 +1,2 @@
 You died because someone accidently spilled acid all over your face  
-[Start Over]()
+[Start Over](../start/wakeup.md)
