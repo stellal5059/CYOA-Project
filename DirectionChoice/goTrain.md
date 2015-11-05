@@ -1,3 +1,3 @@
-It is your first day of training, you see Professor Oak, would you talk to him and pick your pokemon, or look around the lab?  
-[Go Choose first pokemon]()  
+After breakfast you rush over to Professor Oak's laboratory ready to get your very first Pokemon. Professor Oak says with a big smile "Ah hello trainer I am Professor Oak pokemon professor. Are you ready to start your Pokemon Journey today?"
+[Go Choose first pokemon](../ProfessorOak/PickPokemon.md)  
 [Look around the lab](../DirectionChoice/LookAroundLab.md)
